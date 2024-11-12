@@ -203,3 +203,12 @@ Para desplegar en vercel simplemente, metemos el repostiorio en este formulario 
 Me ha dado esta [url](https://pps-despliegue-vercel-g4-git-main-ales-projects-3125483c.vercel.app/api/todos), la cual podemos ver los todos que tenemos en el proyecto 
 
 ![](/img/Captura%20desde%202024-11-10%2014-01-58.png)
+
+---
+
+| xxx | Desarrollador API | Despliegue Docker/Vercel |
+|-|-|-|
+| Laravel | Alejandro Díaz | Nicolás Ruiz |
+| FastAPI | Alejandro González | Pablo Olvera |
+| Springboot | Alejandro González | Isaac Vallet |
+| Next | Alejandro Díaz | Alejandro Díaz |
